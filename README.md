@@ -1,4 +1,7 @@
-<img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/13388273?s=40&amp;v=4" width="20" height="20" alt="@marceldias" />
+</a>
+    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/marceldias">
+      <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/13388273?s=40&amp;v=4" width="20" height="20" alt="@marceldias" />
+</a>
 ## Marcel Jesus Dias (Marcel Dias)
 
 Ph.D Student in Computing of UFF (2020)
