@@ -1,5 +1,5 @@
 ## Seja Bem Vindo!
-<img src="https://avatars.githubusercontent.com/u/13388273?v=4" width="150">
+<img src="https://avatars.githubusercontent.com/u/13388273?v=4" width="100">
 
 You can use the [editor on GitHub](https://github.com/marceldias/marcel/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
