@@ -1,5 +1,11 @@
-## Seja Bem Vindo!
-<img src="https://avatars.githubusercontent.com/u/13388273?v=4" width="100">
+<img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/13388273?s=40&amp;v=4" width="20" height="20" alt="@marceldias" />
+## Marcel Jesus Dias (Marcel Dias)
+
+Ph.D Student in Computing of UFF (2020)
+M.Sc. in Computing Science of UFABC
+B.Sc. in Computing Science of UNEMAT
+
+## About me
 
 You can use the [editor on GitHub](https://github.com/marceldias/marcel/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
