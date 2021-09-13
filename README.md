@@ -2,7 +2,9 @@
 ## Marcel Jesus Dias (Marcel Dias)
 
 Ph.D Student in Computing of UFF (2020)
+
 M.Sc. in Computing Science of UFABC
+
 B.Sc. in Computing Science of UNEMAT
 
 ## About me
