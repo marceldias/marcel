@@ -1,46 +1,21 @@
 <img src="https://avatars.githubusercontent.com/u/13388273?v=4" width="120">
 ## Marcel Jesus Dias (Marcel Dias)
 
-Ph.D Student in Computing of UFF (2020)
-
-M.Sc. in Computing Science of UFABC
-
-B.Sc. in Computing Science of UNEMAT
+- Ph.D Student in Computing of UFF (2020)
+- M.Sc. in Computing Science of UFABC
+- B.Sc. in Computing Science of UNEMAT
 
 ## About me
+Marcel Dias is a Professor at the Federal Institute of Education, Science and Technology of Mato Grosso (IFMT), where he teaches and researches in the field of Computing. He is a Ph.D Student in Computing at the Fluminense Federal University (UFF). He holds a Bachelor's and Master's Degree in Computer Science, an Executive MBA in Business and a Specialization in Information Systems Management. As an outstanding research, he has an Invention Patent published at the INPI, in the area of Computer Vision (Detection System for the State of Sleepiness in Drivers). He also worked for several years as a Systems Analyst at a Multinational in the Pulp and Paper sector, Implementing Administrative, Forestry and Industrial Systems. Has knowledge in Project Management and ITIL Best Practices, with certification.
 
-You can use the [editor on GitHub](https://github.com/marceldias/marcel/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+CV Lattes Link http://lattes.cnpq.br/2618362345115021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact
 
-### Markdown
+You can contact me through marcel.kgb@gmail.com; marceldias@id.uff.br
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Social Network
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marceldias/marcel/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Linkedin https://www.linkedin.com/in/marceljdias/
+- https://www.instagram.com/marcel.jdias/
